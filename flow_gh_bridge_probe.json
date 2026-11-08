@@ -1,0 +1,13 @@
+{
+  "bridgeStatus": "JSDELIVR_GH_BRIDGE_OK_8848",
+  "projectSlug": "apocalypse_shura_chengxiao",
+  "titleZh": "末世修罗场_程筱",
+  "engineVersion": "local-flow-cli-v1.0-cdn",
+  "verifiedModules": [
+    "promptTemplateEngine.ts (56KB)",
+    "seasonEpisodeCompiler.ts (74KB)",
+    "scriptValidator.ts (61KB)",
+    "seriesBible.json (17 Master Assets)",
+    "episode001.json (32 Storyboard Shots)"
+  ]
+}
